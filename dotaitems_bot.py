@@ -7,7 +7,7 @@ from main import collect_data
 import os
 import time
 
-api_token = '5387003438:AAFtHDwJH8Tiu7o1oxCYDMvuYFGVHnH4qk4'
+api_token = 'UR TOKEN'
 
 bot = Bot(token=api_token, parse_mode=types.ParseMode.HTML)
 dp = Dispatcher(bot)
